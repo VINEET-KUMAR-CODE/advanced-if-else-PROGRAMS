@@ -60,7 +60,6 @@ Python 3
 
 Conditional Statements (if, elif, else)
 
-User Input Handling
 ------------------------------------------------------------------------------------------------------------------
 
 ## Skills
@@ -81,9 +80,12 @@ Nested If–Else Conditions
 
 Practical Python Thinking
 
-Problem Solving & Logic Building
+--------------------------------------------------------------------------------------------------------------------------------------
+📬 Let’s Connect
 
-------------------------------------------------------------------------------------------------------------------------
+💼 LinkedIn - www.linkedin.com/in/vineet-kumar-40ba27323 | ✉️ Email - vineetkumarji1008@gmail.com
 
-# Master decision-making in Python with realistic examples.
+# Master decision-making in Python with realistic examples. Problem Solving & Logic Building
+
+
 
