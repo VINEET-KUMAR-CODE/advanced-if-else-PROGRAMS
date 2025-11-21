@@ -1,7 +1,7 @@
 # advanced-if-else-PROGRAMS
 real-world, industry-level Python programs based on advanced if-else logic.
 -----------------------------------------------------------------------------------------
-## ✅ Little Summary for All 20 Programs
+## ✅ Little Summary for All 10 Programs
 
 1 Hospital Triage System – Classifies patients into priority levels based on temperature and pain.
 
@@ -22,26 +22,6 @@ real-world, industry-level Python programs based on advanced if-else logic.
 9 Parking Lot Charges – Computes total parking cost for cars and bikes by time duration.
 
 10. Loan Eligibility Checker – Decides LTV eligibility using monthly income and loan status.
-
-11 Student Scholarship Eligibility – Determines scholarship % using GPA and income.
-
-12 Credit Card Interest Waiver – Calculates penalty based on delayed days.
-
-13 Gym Membership Recommendation – Suggests fitness plans using BMI & goal.
-
-14 Insurance Premium Calculator – Calculates premium using age & claims history.
-
-15 Online Exam Auto-Grading – Assigns grade or disqualifies for cheating.
-
-16 Delivery Time Estimator – Gives delivery days based on distance and service type.
-
-17 Water Purifier Service Alert – Shows service alert using water usage & filter age.
-
-18 E-Commerce Return Policy – Checks return eligibility using category, days, bill status.
-
-19 Office Attendance Bonus – Calculates bonus using attendance% & behavior.
-
-20 Smart Fridge Cooling Control – Sets cooling mode using temperature and power-saving.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 # 🚀 Why These Programs Are Useful?
